@@ -1,0 +1,19 @@
+[
+  {
+    "name": "qwewqe",
+    "fieldId": "qwewqe",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "qwe"
+          }
+        }
+      }
+    },
+    "componentId": "single-line-text",
+    "modelId": "234324"
+  }
+]
